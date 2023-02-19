@@ -22,6 +22,20 @@
     <string name="Scaffold">Контейнер Scaffold</string>
     <string name="Menu">Меню</string>
     <string name="MyComposeMap">MyComposeMap</string>
+    <string name="architecture">Усовершенствованная архитектура Android</string>
+    <string name="learn_kotlin"> Изучение Kotlin </string>
+    <string name="coroutines"> Корутины в Kotlin</string>
+    <string name="android"> android</string>
+    <string name="swift"> swift</string>
+    <string name="kotlin"> kotlin</string>
+    <string name="ios"> ios</string>
+    <string name="covers"> Обложки книг</string>
+    <string name="List"> List</string>
+    <string name="Scroll"> Прокрутка</string>
+    <string name="grid_icon"> Иконка</string>
+    <string name="Grid"> Grid</string>
+
+
 
 
 </resources>
