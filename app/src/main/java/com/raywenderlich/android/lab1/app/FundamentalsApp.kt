@@ -20,10 +20,10 @@ fun FundamentalsApp() {
                 is Screen.ProgressIndicator -> ProgressIndicatorScreen()
                 is Screen.AlertDialog -> AlertDialogScreen()
                 is Screen.Row -> RowScreen()
-                is Screen.Column -> RowScreen()
-                is Screen.Box -> RowScreen()
-                is Screen.Surface -> RowScreen()
-                is Screen.Scaffold -> RowScreen()
+                is Screen.Column -> ColumnScreen()
+                is Screen.Box -> BoxScreen()
+                is Screen.Surface -> SurfaceScreen()
+                is Screen.Scaffold -> ScaffoldScreen()
             }
         }
     }
