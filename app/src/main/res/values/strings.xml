@@ -19,7 +19,9 @@
     <string name="Column">Контейнер Column</string>
     <string name="Box">Контейнер Box</string>
     <string name="Surface">Контейнер Surface</string>
-
+    <string name="Scaffold">Контейнер Scaffold</string>
+    <string name="Menu">Меню</string>
+    <string name="MyComposeMap">MyComposeMap</string>
 
 
 </resources>
